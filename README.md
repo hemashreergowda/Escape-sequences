@@ -1,6 +1,7 @@
 # Escape-sequences
 some of the escape sequences is described here
 
+
 Escape Sequence	              Meaning
   \a	                      Alarm or Beep
   \b	                      Backspace
